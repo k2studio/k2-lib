@@ -1,1 +1,1 @@
-K2 Lib
+K2 Lib - Eclipse
